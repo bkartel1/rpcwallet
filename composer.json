@@ -1,0 +1,19 @@
+{
+    "name" : "vith27/rpcwallet",
+    "type" : "library",
+    "description" : "RPC Wallet manager",
+    "authors" : [{
+            "name" : "Vith",
+            "email" : "sabugo@sabugo.ch",
+            "homepage" : "http://www.sabugo.ch"
+        }
+    ],
+    "require" : {
+        "php" : ">=5.4"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "Vith27\\RPCWallet\\" : "src/"
+        }
+    }
+}
