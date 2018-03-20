@@ -2,6 +2,7 @@
     "name" : "vith27/rpcwallet",
     "type" : "library",
     "description" : "RPC Wallet manager",
+    "licence" : "proprietary",
     "authors" : [{
             "name" : "Vith",
             "email" : "sabugo@sabugo.ch",
