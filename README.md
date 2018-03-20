@@ -1,0 +1,2 @@
+# rpcwallet
+RPC Wallet library
